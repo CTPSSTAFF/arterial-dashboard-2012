@@ -8,8 +8,8 @@ This application makes use of the following external resources:
 * Version 1.11.1 of the jQuery library
 * Version 1.10.4 of the jQuery-ui library
 * Version 2.4.3 of the Proj4.js library
-* Version 4.20 of the OpenLayers library
-* Version 4.8.9 of the D3 library
+* Version 4.200 of the OpenLayers library
+* Version 4.8.0 of the D3 library
 * The d3-tip library
 * The CTPS Accessible Grid Object library (in a separate repo)
-* A custom build of the modernizr.js library that test for SVG support in the browser
+* A custom build of version 2.8.2 of the modernizr.js library that tests for SVG support in the browser
