@@ -1,0 +1,1 @@
+Placeholder enabling GitHub to create a subdirectory for image data for this app (exclusive of congestion scans.)
